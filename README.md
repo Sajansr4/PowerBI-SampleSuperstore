@@ -1,9 +1,10 @@
--------------------------------------------------------------------------------Sample Superstore---------------------------------------------------------------------
+-------------------------------------------------------------------------------Sample Superstore------------------------------------------------------------
 [Dataset used- Sample-Superstore]
 
 Dashboard Features:
 
 -At-a-Glance Metrics: Quantity, Profit, Discount, Sales
+
 -Interactive Elements: Region Slicer, Product Details Slicer
 -Insightful Buttons:
     "Profit by Segment" (Updates Pie Chart)
